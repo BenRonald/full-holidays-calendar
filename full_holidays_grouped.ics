@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+X-WR-CALNAME:Deazy DP Holidays Full
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241001
 SUMMARY:❗️Deazy Supplier National Holiday (UKR)
